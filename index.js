@@ -20,4 +20,4 @@
    take in the holiday name first, then the days until that holiday.
 */
 
-function happyHolidays(): return
+function happyHolidays() {return 
